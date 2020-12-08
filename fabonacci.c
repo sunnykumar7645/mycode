@@ -4,7 +4,6 @@ int main()
 int sum = 0, n;
 int a = 0;
 int b = 1;
-printf("This is for us.");
 printf("Enter the nth value: ");
 scanf("%d", &n);
 printf("Fibonacci series: ");
